@@ -1,15 +1,5 @@
 ========================================
-        Pfister Neon RGB Lights
-========================================
-
-Author: SmokyDrft
-Version: 1.0.0
-
-----------------------------------------
-📌 DESCRIPTION
-----------------------------------------
-
-This resource adds a custom RGB lighting setup to the Pfister Neon in FiveM.
+        Pfister Neon with RGB Lights
 
 ----------------------------------------
 📥 INSTALLATION
@@ -22,7 +12,7 @@ This resource adds a custom RGB lighting setup to the Pfister Neon in FiveM.
 3. Restart your server
 
 ----------------------------------------
-🔗 LINKS
+🔗 Check out my other stuff!
 ----------------------------------------
 YouTube: https://www.youtube.com/@SmokyDrftt
 Add me on discord smokydrfttt
@@ -33,7 +23,6 @@ Add me on discord smokydrfttt
 - Do NOT resell this resource
 - Do NOT re-upload without permission
 - Do NOT claim this work as your own
-- You MAY use this in your server
 
 If you want to share it, please link back to the original source.
 
