@@ -1,4 +1,4 @@
-# 🚗 Pfister Neon RGB Lights
+# 🚗 Pfister Neon with Animated RGB Lights
 
 ----------------------------------------
 📥 INSTALLATION
